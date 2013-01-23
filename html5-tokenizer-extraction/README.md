@@ -20,7 +20,7 @@ Several libraries are required to run this script:
 
 
 ## Author
-Developed by [Romain Gaucher](https://twitter.com/rgaucher). An HTMLize ouptut of this document is available on our blog: [Coverity Security Research Lab](https://communities.coverity.com/blogs/security)
+Developed by [Romain Gaucher](https://twitter.com/rgaucher). An HTMLize ouptut of this document is available on our blog: [Coverity Security Research Lab](https://communities.coverity.com/blogs/security/2013/01/23/a-new-look-into-the-html-5-tokenizer-specification)
 
 ## License
     Copyright (c) 2013, Coverity, Inc. 
