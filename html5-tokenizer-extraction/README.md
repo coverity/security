@@ -4,6 +4,8 @@ Simple script to massage the [HTML5 tokenizer spec.](http://www.whatwg.org/specs
 The script extracts a state machine from the spec, and can output it in JSON or in a DOT format. 
 
 ## Using the script
+
+Example on how to use this script with [dot](http://www.graphviz.org) to generate an SVG representation of the tokenizer.
 ```
 $ python html5-generator.py --dot html-tokenizer.dot
 $ dot -Tsvg -O html-tokenizer.dot
